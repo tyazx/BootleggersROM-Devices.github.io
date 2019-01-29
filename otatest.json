@@ -13,7 +13,7 @@ permalink: /api/otatest
 	"buildate": "{{device.filename | slice: buildDateStart,buildDateFinal | remove: ".zip"}}-1911",
 	"buildsize": "{{device.buildsize}}",
 	"id": "{{device.downloadid}}",
-	"download": "https://downloads.sourceforge.net/projects/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbootleggersrom%2Ffiles%2Fbuilds%2F{{ device.codename }}%2F{{ device.filename }}%2Fdownload&ts=1540933895",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbootleggersrom%2Ffiles%2Fbuilds%2F{{ device.codename }}%2F{{ device.filename }}%2Fdownload",
 	"mirrorlink": "{{device.mirrorlink}}",
 	"changelog": "{{device.changelog}}"
 }{% unless forloop.last %},{% endunless %}
