@@ -3,7 +3,7 @@ permalink: /api/otatest
 ---
 {
 {% for device in site.testota %}
-{% assign buildDateStart = device.filename.size | minus: 12 %}{% assign buildDateStartWithTime = device.filename.size | minus: 17 %}{% assign buildDateFinal = device.filename.size | minus: 4 %}"{{device.codename}}": {
+{% assign buildDateStart = device.filename.size | minus: 12 %}{% assign buildDateStartWithTime = device.filename.size | minus: 19 %}{% assign buildDateFinal = device.filename.size | minus: 4 %}"{{device.codename}}": {
 	"fullname": "{{device.fullname}}",
 	"maintainer": "{{device.maintainer}}",
 	"xdathread": "{{device.xdathread}}",
