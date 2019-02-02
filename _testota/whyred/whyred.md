@@ -5,6 +5,6 @@ maintainer: Raj | Adi
 downloadid: 4
 newformat: true
 xdathread: https://forum.xda-developers.com/redmi-note-5-pro/development/rom-bootleggersrom-4-0-stable-whyred-t3885960
-filename: BootleggersROM-Pie4whyred.4.0-Stable-Shishufied-20190201-194132.zip
-buildsize: 848600861 
+filename: BootleggersROM-Pie4whyred.4.0-Stable-Shishufied-20190201-114637.zip
+buildsize:  832611978
 ---
