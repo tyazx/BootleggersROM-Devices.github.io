@@ -5,6 +5,6 @@ maintainer: Ayan
 downloadid: 4
 newformat: true
 xdathread: https://forum.xda-developers.com/oneplus-6/development/rom-bootleggersrom-3-5-beta-unshishufied-t3871649
-filename: BootleggersROM-Pie4enchilada.4.0-Stable-Shishufied-20190330-2359.zip
-buildsize: 1006632960
+filename: BootleggersROM-Pie4enchilada.4.0-Stable-Shishufied-20190202-094233.zip
+buildsize: 857787928
 ---
