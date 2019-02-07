@@ -2,8 +2,10 @@
 codename: enchilada
 fullname: Oneplus 6
 maintainer: Ayan
+downloadid: 95ccd42d53
+newformat: true
 xdathread: https://forum.xda-developers.com/oneplus-6/development/rom-bootleggersrom-3-5-beta-unshishufied-t3871649
-filename: BootleggersROM-Pie4.4.0-Stable-Shishufied-20190128.zip
-buildsize: 1.0 GB
+filename: BootleggersROM-Pie4enchilada.4.0-Stable-Shishufied-20190207-100332.zip
+buildsize: 728536475
 mirrorlink: https://sourceforge.net/projects/bootleggersrom/files/builds/enchilada/
 ---
