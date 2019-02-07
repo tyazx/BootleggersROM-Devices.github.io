@@ -11,7 +11,7 @@ permalink: /api/devices
 	{% if device.newformat %}"buildate": "{{device.filename | slice: buildDateStartWithTime,buildDateFinal | remove: ".zip"}}",{% else %}"buildate": "{{device.filename | slice: buildDateStart,buildDateFinal | remove: ".zip"}}-191140",{% endif %}
 	"buildsize": "{{device.buildsize}}",
 	"id": "{{ forloop.index }}",
-	"download": {% if device.directmirror %}"{{ device.directmirror }}/{{ device.codename }}/{{ device.filename }}",{% else %}"https://downloads.sourceforge.net/project/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}",{% endif %}
+	"download": {% if device.directmirror %}"{{ device.directmirror }}/{{ device.filename }}",{% else %}"https://downloads.sourceforge.net/project/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}",{% endif %}
 	"mirrorlink": "{{device.mirrorlink}}",
 	"changelog": "{{device.changelog}}"
 }{% unless forloop.last %},{% endunless %}
