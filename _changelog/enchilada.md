@@ -78,9 +78,25 @@ Rebase device sources to remove unnecessary jank (size of the zip is finally und
     28/01/2019
 =====================
 
-[B]Clean Flash is mandatory[/B]
+Clean Flash is mandatory
 Added clock gradients to lockscreen(those are absolutely gorgeous)
 Fix Google Pay(thanks to anriudh and his entire tester team)
 Fix idle drain(can legit say that the drain is almost none)
 Wifi issue fixed
 For rest of the detail changes follow [URL="https://forum.xda-developers.com/showpost.php?p=78772352&postcount=431"]here[/URL] and Bootleggers github
+
+=====================
+    07/02/2019
+=====================
+Clean Flash is mandatory to avoid problems
+February Security Patch updated
+OTA implemented
+Gapps removed
+OmniStyle headers included
+Upstream kernel to 4.9.154
+Add a Magisk executable script to utilise the complete capability of the kernel
+Fix timings of the non-Magisk ramdisk for efficient apply of values
+Allow sensors to access /dev/sensors
+Some netmgrd fixes
+Some SEPolicy fixes
+For the rest check their github
