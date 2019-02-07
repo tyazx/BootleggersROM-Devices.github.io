@@ -3,16 +3,15 @@ permalink: /api/devices
 ---
 {
 {% for device in site.devices %}
-	{% assign buildDateStart = device.filename.size | minus: 12 %}
-	{% assign buildDateFinal = device.filename.size | minus: 4 %}
-	"{{device.codename}}": {
+{% assign buildDateStart = device.filename.size | minus: 12 %}{% assign buildDateStartWithTime = device.filename.size | minus: 19 %}{% assign buildDateFinal = device.filename.size | minus: 4 %}"{{device.codename}}": {
 	"fullname": "{{device.fullname}}",
 	"maintainer": "{{device.maintainer}}",
 	"xdathread": "{{device.xdathread}}",
 	"filename": "{{device.filename}}",
-	"buildate": "{{device.filename | slice: buildDateStart,buildDateFinal | remove: ".zip"}}",
+	{% if device.newformat %}"buildate": "{{device.filename | slice: buildDateStartWithTime,buildDateFinal | remove: ".zip"}}",{% else %}"buildate": "{{device.filename | slice: buildDateStart,buildDateFinal | remove: ".zip"}}-191140",{% endif %}
 	"buildsize": "{{device.buildsize}}",
-	"download": "https://downloads.sourceforge.net/projects/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbootleggersrom%2Ffiles%2Fbuilds%2F{{ device.codename }}%2F{{ device.filename }}%2Fdownload&ts=1540933895",
+	"id": "{{ forloop.index }}",
+	"download": {% if device.directmirror %}"{{ device.directmirror }}/{{ device.codename }}/{{ device.filename }}",{% else %}"https://downloads.sourceforge.net/project/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}",{% endif %}
 	"mirrorlink": "{{device.mirrorlink}}",
 	"changelog": "{{device.changelog}}"
 }{% unless forloop.last %},{% endunless %}
