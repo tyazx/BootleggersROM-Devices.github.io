@@ -14,6 +14,7 @@ Fix status bar brightness gesture
 went into raj trees,thanks to jadejaraj
 fixed 4k recording(was issue in older version)
 fixed issues with hal3 enabled and whatsapp calling
+Added temporary Gcam for build
 more to find in bootleggers repo in github
 
 RECOMMENDED CLEAN FLASH
