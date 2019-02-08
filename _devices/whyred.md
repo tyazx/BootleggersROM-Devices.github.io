@@ -1,8 +1,11 @@
 ---
 codename: whyred
 fullname: Xiaomi Redmi Note 5 Pro
-maintainer: merothh | Mr. Teddy
-xdathread: https://forum.xda-developers.com/redmi-note-5-pro/development/rom-bootleggersrom-3-5-beta-whyred-t3865816
-filename: BootleggersROM-Pie4whyred.3.5-MadStinky-Shishufied-20181202.zip
-buildsize: 740MB
+maintainer: Raj | Adi
+downloadid: 3b405720f7
+newformat: true
+xdathread: https://forum.xda-developers.com/redmi-note-5-pro/development/rom-bootleggersrom-4-0-stable-whyred-t3885960
+filename: BootleggersROM-Pie4whyred.4.0-Stable-Shishufied-20190208-162409.zip
+buildsize: 860941113
+mirrorlink: https://sourceforge.net/projects/bootleggersrom/files/builds/whyred
 ---
