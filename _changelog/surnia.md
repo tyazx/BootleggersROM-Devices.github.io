@@ -4,11 +4,9 @@ layout:changelayout
 ---
 
 Device:
-------
 
-* Initial build
+Initial build
 
 Bootleggers:
-------------
 
-* Our first 4.0 release
+Our first 4.0 release
