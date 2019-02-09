@@ -2,8 +2,6 @@
 title:surnia
 layout:changelayout
 ---
-=====================
-    23/01/2019
-=====================
 
+Device:
 Initial build
