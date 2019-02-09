@@ -19,3 +19,10 @@ more to find in bootleggers repo in github
 
 RECOMMENDED CLEAN FLASH
 
+=====================
+    09/02/2019
+=====================
+Fixed Finally whatsapp calls lag[TESTED],thanks to jadejaraj and rashed
+removed gcam(bloat af here)
+(for test) tried fix fc while in landspace mode and use power menu,thanks to rashed
+Many you will find more changes
