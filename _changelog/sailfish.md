@@ -2,9 +2,6 @@
 title:sailfish
 layout:changelayout
 ---
-=====================
-    02/07/2019
-=====================
 
 Device:
 - Kernel upstreamed to 3.18.122
