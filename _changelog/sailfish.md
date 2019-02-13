@@ -4,13 +4,14 @@ layout:changelayout
 ---
 
 Device:
-- Kernel upstreamed to 3.18.122
-- _Builds now include GApps_
-- Lowered vibration intensity by 50%
+- enabled smart pixels
+- re-enable Always on Display
+- switched to user builds
 
 BootleggersROM:
-- Added QS headers
-- Merged February (r33)
-- Added ShishuOTA
-- Fixed status bar brightness slider
-- Ambient music on lockscreen won't be shown
+- added smart pixels
+- fixed some subs themes crashing with OmniStyle
+- added Gboard Go as default keyboard
+- fixed hold power button for torch while dozing
+- added toggle to switch volume panel position && different audio streams
+- show bluetooth battery level on statusbar when available
