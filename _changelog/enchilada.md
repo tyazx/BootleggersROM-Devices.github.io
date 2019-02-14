@@ -100,3 +100,11 @@ Allow sensors to access /dev/sensors
 Some netmgrd fixes
 Some SEPolicy fixes
 For the rest check their github
+
+=====================
+    14/02/2019
+=====================
+Smart Pixels added
+Blinking Flash light while calling is disabled by default
+Extended Volume Controls now added
+For rest check our github
