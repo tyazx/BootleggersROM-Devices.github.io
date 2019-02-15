@@ -26,3 +26,25 @@ Fixed Finally whatsapp calls lag[TESTED],thanks to jadejaraj and rashed
 removed gcam(bloat af here)
 (for test) tried fix fc while in landspace mode and use power menu,thanks to rashed
 Many you will find more changes
+
+=====================
+    15/02/2019
+=====================
+Rom Changelog:
+Added Gboard GO
+Added switching audio panel 
+Fixed no default ringtone on sim2
+More on btlg github
+Device Changelog:
+Improved performance
+Added overlay to see in status bar more than 4 notifications,thanks to rashed and akhilnarang
+Added props for faster shutdown
+Fixed:
+4k recording in gcam,thanks to simrat for neccesary repo with blobs
+Whatsapp proximity problem,thanks to @srfariasmau
+Lags while using notification
+
+NEW KERNEL: PureCAF R3.1 thanks to @srfariasmau,for me it's stable and very fast with good battery live
+
+RECOMMENDED CLEAN FLASH ....
+
