@@ -17,3 +17,12 @@ layout:changelayout
 - Some netmgrd fixes
 - Some SEPolicy fixes
 - For the rest check their github
+
+=====================
+    13/02/2019
+=====================
+- Kernel Upstreamed with some more under the hood changes
+- Some nice optimisations under the hood
+- Added Volume Panel to left option in Dumpster
+- Added Smart Pixels in Dumpster
+- Lot of ROM sided fixes 
