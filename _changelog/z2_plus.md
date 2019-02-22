@@ -7,22 +7,22 @@ layout:changelayout
 =====================
 
 Device Side Stuff
-• full vndk enabled
-• fixed dark gcam video
-• added vectors for zuk doze
-• added spectrum support
-** Latest Nameless as prebuilt**
-•  kernel merged latest aosp common
-• fixed mic less headphone issues
-• fixed wechat issues
-• updated thermels from zuk-devs
-• switched to /factory instead of renaming it
-• updated SDM blobs
-• major souce updates from zuk devs
-• fixed charging issues
-• fixed some encryption issues (needs testing though)
-• speaker gain
-• fixed some dirty lags on games
+* full vndk enabled
+* fixed dark gcam video
+* added vectors for zuk doze
+* added spectrum support
+* Latest Nameless as prebuilt
+*  kernel merged latest aosp common
+* fixed mic less headphone issues
+* fixed wechat issues
+* updated thermels from zuk-devs
+* switched to /factory instead of renaming it
+* updated SDM blobs
+* major souce updates from zuk devs
+* fixed charging issues
+* fixed some encryption issues (needs testing though)
+* speaker gain
+* fixed some dirty lags on games
 
 ROM Side Stuff
 * Merged February Security Patches (9.0 r33)
