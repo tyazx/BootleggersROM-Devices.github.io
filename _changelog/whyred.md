@@ -48,3 +48,20 @@ NEW KERNEL: PureCAF R3.1 thanks to @srfariasmau,for me it's stable and very fast
 
 RECOMMENDED CLEAN FLASH ....
 
+=====================
+    23/02/2019
+=====================
+
+Changelog:
+- updated purecaf into 4.1 and merged 4.4.176
+- increased speaker and headphones sound a little thanks to @kjjjnob
+Disabled ull for clearer sound thanks to @srfariasmau
+- lot of denials addressed,thanks to @srfariasmau
+- Some fixes into auto brightness thanks to @srfariasmau
+- Removed gboard go(not ready yet)
+- Themed about phone icon
+- Rebased launcher ( fixed search bar)
+- Cleaned no exist services thanks to guai
+- Some another tree improvments thanks to guai
+- Added missing camera,sound implementations,thanks to @srfariasmau
+
