@@ -37,6 +37,13 @@ collections:
       output: true
       permalink: /:collection/:title
 
+defaults:
+  - scope:
+      path: ""
+      type: "changelog"
+    values:
+      layout: changelayout
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

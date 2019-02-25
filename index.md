@@ -29,8 +29,25 @@ title: Downloads
             {% if device.xdathread %}
               <a class="waves-effect waves-light btn-small shishu-accent-btn" href="{{ device.xdathread }}"><i class="material-icons left">library_books</i>XDA Thread</a>
             {% endif %}
+            <a class="waves-effect waves-light btn-small shishu-accent-btn modal-trigger" href="#modal-chlg-{{device.codename}}"><i class="material-icons left">receipt</i>Changelog</a>
           </div>
         </li>
+        <!-- Modal for {{device.codename}} -->
+        <div id="modal-chlg-{{device.codename}}" class="modal modal-fixed-footer shishu-light-bg">
+          <div class="modal-content">
+            <h4>Changelog</h4>
+        <div class="video-container">
+          <iframe width="853" height="480" src="https://bootleggersrom-devices.github.io/changelog/{{device.codename}}" frameborder="0" style="
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css');
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+	background-color:#121217!important;
+	color:#f3f3f3;
+  font-family: 'Roboto Condensed', sans-serif!important;"></iframe></div>
+        </div>
+          <div class="modal-footer shishu-light-bg">
+            <a href="#!" class="modal-close waves-effect waves-light btn-flat">Close</a>
+          </div>
+        </div>
       {% endfor %}
     </ul>
   </div>
