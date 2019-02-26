@@ -4,7 +4,9 @@ layout:changelayout
 ---
 
 Device:
--none
+- Newly reworked Kernel from @shagbag913
+- Please give feedback on the new kernel!
+- built with clang 8.0.8
 
 BootleggersROM:
 - Shishu Launcher updates
