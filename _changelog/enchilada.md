@@ -113,7 +113,8 @@ Some of the options are removed from one place to the other to get an organised 
 
 =====================
     26/02/2019
-=====================    
+=====================                
+
 Launcher3 fixes    
 Added a preview image to Panel Modes   
 Kernel upstreamed  
