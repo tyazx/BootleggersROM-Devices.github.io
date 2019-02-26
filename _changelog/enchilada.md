@@ -100,3 +100,20 @@ Allow sensors to access /dev/sensors
 Some netmgrd fixes
 Some SEPolicy fixes
 For the rest check their github
+
+=====================
+    15/02/2019
+=====================
+Clean Flash is mandatory
+Added extended audio panels
+Show Bluetooth Battery Percentage when available
+Smart Pixels as requested
+Fix no Default ringtone for SIM 2
+Some of the options are removed from one place to the other to get an organised view
+
+=====================
+    26/02/2019
+=====================
+Launcher3 fixes
+Added a preview image to Panel Modes 
+Kernel upstreamed
