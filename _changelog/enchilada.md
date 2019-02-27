@@ -112,10 +112,11 @@ Fix no Default ringtone for SIM 2
 Some of the options are removed from one place to the other to get an organised view
 
 =====================
-    26/02/2019
-=====================                
+    28/02/2019
+=====================                       
 
-Launcher3 fixes    
-Added a preview image to Panel Modes   
-Kernel upstreamed  
-
+Launcher3 and updates fixes           
+Added a preview image to Panel Modes           
+Kernel upstreamed to 160             
+Added gboard go           
+Some build fixes for maintainers       
