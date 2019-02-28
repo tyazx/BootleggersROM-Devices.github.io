@@ -5,7 +5,7 @@ layout:changelayout
 
 Device:
 
-Initial build
+- Switched to LOS 15.1 kernel
 
 Bootleggers:
 
