@@ -4,8 +4,7 @@ layout:changelayout
 ---
 
 BootleggersROM:
-- Shishu Launcher updates
-- Theme new about phone setting
+- Translation imports
 
 Device:
-- Fix in call audio
+- Unicornblood Kernel compiled with clang 8.0.9 (Testing)
