@@ -12,6 +12,7 @@ permalink: /api/devices
 	"buildsize": "{{device.buildsize}}",
 	"id": "{{ forloop.index }}",
 	"download": {% if device.directmirror %}"{{ device.directmirror }}/{{ device.filename }}",{% else %}"https://downloads.sourceforge.net/project/bootleggersrom/builds/{{ device.codename }}/{{ device.filename }}",{% endif %}
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/{{ device.codename }}",
 	"mirrorlink": "{{device.mirrorlink}}",
 	"changelog": "{{device.changelog}}"
 }{% unless forloop.last %},{% endunless %}
