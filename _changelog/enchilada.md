@@ -120,3 +120,12 @@ Added a preview image to Panel Modes
 Kernel upstreamed to 160             
 Added gboard go           
 Some build fixes for maintainers       
+
+=====================
+    28/02/2019
+=====================                             
+March security Update            
+Statusbar clock switched up to DU + LOS implementation (Credits to AquariOS team)                          
+Fixed small derp on statusbar logo that shows the icon as intended and not very close to clock                              
+Fixed App sugestion padding bug on Launcher3                        
+Kernel upstreamed to .162 and built with clang 8.0.9
