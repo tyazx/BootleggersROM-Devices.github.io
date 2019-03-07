@@ -3,6 +3,20 @@ title:scorpio
 layout:changelayout
 ---
 =====================
+    07.03.2019
+=====================
+* ROM Side Stuff
+* March security patch,
+* Statusbar clock switched to DU + LOS implementation (Credits to AquariOS team),
+* Fixed small derp on statusbar logo that shows the icon as intended and not very close to clock,
+* Fixed App sugestion padding bug on Launcher3.
+
+* Device Side Stuff
+* change to FloppyKernel (THX@Jonas Cardoso)
+* change default governor to schedutil
+* add back hardware keys overlay
+ 
+=====================
     27/02/2019
 =====================
 * ROM Side Stuff
