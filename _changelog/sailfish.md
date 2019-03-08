@@ -4,14 +4,24 @@ layout:changelayout
 ---
 
 Device:
-- enabled smart pixels
-- re-enable Always on Display
-- switched to user builds
+- reworked kernel
+- updated kernel/images to March
 
-BootleggersROM:
-- added smart pixels
-- fixed some subs themes crashing with OmniStyle
-- added Gboard Go as default keyboard
-- fixed hold power button for torch while dozing
-- added toggle to switch volume panel position && different audio streams
-- show bluetooth battery level on statusbar when available
+ROM:
+- merged March patches (r34)
+- fixed statusbar clock on lockscreen
+
+ Launcher3:
+- ability to change at a glance color
+- ability to add at a glance background
+- adaptive icon backgrounds
+- ability to disable searchbar text
+- change drawable on search provider change
+
+ ShishuOTA:
+- experimental ShishuOTA stuff picked in
+
+NOTE: due to a weird ShishuOTA bug that
+is being worked on, you may need to clear
+storage of the ShishuOTA app in settings
+in order to view the new update!
