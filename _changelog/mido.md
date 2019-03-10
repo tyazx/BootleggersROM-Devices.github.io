@@ -3,6 +3,13 @@ title:mido
 layout:changelayout
 ---
 =====================
+    10/03/2019
+=====================
+
+Device Side Stuff
+* Switched kernel (has better performance now)
+
+=====================
     09/03/2019
 =====================
 
