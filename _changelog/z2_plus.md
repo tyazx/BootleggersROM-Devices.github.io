@@ -31,7 +31,36 @@ ROM Side Stuff
 * Audio Panel is switchable
 * SmartPixels
 * Fix no Default ringtone for SIM 2
-* QS Headers
-* improved launcher
+* QS Headers* improved launcher
 
 CLEAN FLASH IS REQUIRED (ALSO NEED NEW TWRP)
+
+=====================
+    14/03/2019
+=====================
+
+  ROM Side Stuff 
+* March security patch * NFC tile fixed 
+* Added Smart Pixels 
+* Added GBoard Go 
+* Volume panel position switch 
+* Fixed statusbar on lockscreen issues 
+* Statusbar clock fixed 
+* Launcher3 improvements 
+* Fixed Landscape power menu
+* MiXplorer updated
+* Tons of other stuff I forgot
+
+Device side Stuffs
+
+• Compiled with clang 9.0.1 
+• Bump up vendor security patch 
+• Restore vulkan blobs to marlin 
+• Updated encryption blobs from daisy 
+• Added KCAL for Display colour calibration 
+• Fixed wifi mac address 
+• Updated audio policy configuration 
+• Switched back to stock charger 
+• Fixed reboot when turning on hotspot 
+• Fixed GPS issues
+• Latest nameless kernel
