@@ -6,6 +6,21 @@ layout:changelayout
     07.03.2019
 =====================
 * ROM Side Stuff
+* Volume panel position switch 
+* Fixed statusbar on lockscreen issues 
+* Statusbar clock fixed 
+* Launcher3 improvements 
+* Fixed Landscape power menu
+* MiXplorer updated
+* Tons of other stuff I forgot
+
+* Device Side Stuff
+* change back to Stock Kernel (should fix bootloop)
+
+=====================
+    07.03.2019
+=====================
+* ROM Side Stuff
 * March security patch,
 * Statusbar clock switched to DU + LOS implementation (Credits to AquariOS team),
 * Fixed small derp on statusbar logo that shows the icon as intended and not very close to clock,
