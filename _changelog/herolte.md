@@ -38,6 +38,7 @@ layout:changelayout
   * Smart and quick pulldown
   * Some more optimization to Ambient Ticker and many other features
   * Added john notwoodman, who isn't woodman
+  
 =====================
     04/03/2019
 =====================
