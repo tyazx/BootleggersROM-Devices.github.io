@@ -1,3 +1,7 @@
+---
+title:beryllium
+layout:changelayout
+---
 
  2019-03-29:
 
