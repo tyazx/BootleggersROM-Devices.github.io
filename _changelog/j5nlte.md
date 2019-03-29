@@ -135,3 +135,29 @@ layout:changelayout
  * Fixed small derp on statusbar logo that shows the icon as intended and not very close to clock,
  * Fixed App sugestion padding bug on Launcher3.
 
+==============
+  2019-03-06
+==============
+
+ * Fixed derps on powermenu toggle and secure power menu
+ * Statusbar Headers 
+ * Launcher3 rebased and completely up-to-date
+ * Switch volume panel position + Extended
+ * Grid recents are back
+ * Recents clear all + membar
+ * Support for elmyra sensor (Active edge for the squeezy bois)
+ * LS cover art filters, like grayscale and blur (might be buggy)
+ * Kill all on notifs guts
+ * Ambient ticker with new UI (based on Q beta)
+ * Minimal stuff, like disable qs slide on secured phones, tiles like sync and ambient display
+ * Switched to gboard go and phonograph
+ * Removed woodman
+ * Slim Recents
+ * Added changelog section
+ * Themes: Themed more apps like OTA, Dialer, Contacts, File manager and phonograph
+ * WPS (miracast) supports audio now!
+ * OP gestures
+ * Smart and quick pulldown
+ * Some more optimization to Ambient Ticker and many other features
+ * Added john notwoodman, who isn't woodman
+
