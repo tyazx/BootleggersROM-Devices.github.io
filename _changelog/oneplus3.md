@@ -40,3 +40,21 @@ Bootleggers
 - Audio panel position toggle
 - Add a workaround for black screen issue when subs themes are applied
 - Show bt device battery level on statusbar
+
+============
+  30/03/19
+============
+
+Device
+
+- Ensure alert slider sets the correct mode when switching too fast or loose connection
+- Enabled Boost Framework
+- Added fix for quickswitch (weird flex but ok)
+- pocketmode: use oneplus's pocket sensor
+- doze: use oneplus's pocket sensor for hand wave and pocket mode
+- More los changes
+
+Bootleggers
+
+- 4.1 version update
+- https://bootleggersrom.github.io/2019/03/29/the-41-h-release.html
