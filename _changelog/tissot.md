@@ -3,10 +3,8 @@ title:tissot
 layout:changelayout
 ---
 =====================
-    28/02/2019
+    31/03/2019
 =====================
 
-Feb. security update 
-OTA added 
-Fixed Hotspot
-Fixed ims registratiom
+4.1 version update
+https://bootleggersrom.github.io/2019/03/29/the-41-h-release.html
