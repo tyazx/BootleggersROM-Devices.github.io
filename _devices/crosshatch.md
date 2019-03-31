@@ -3,7 +3,7 @@ codename: crosshatch
 fullname: Google Pixel 3 XL
 maintainer: stebomurkn420
 xdathread: TBA
-filename: BootleggersROM-Pie4crosshatch.4.0-Stable-Shishufied-20190228-044123.zip
+filename: BootleggersROM-Pie4crosshatch.4.1-Stable-Shishufied-20190330-223958.zip
 newformat: true
-buildsize: 985171714
+buildsize: 1028023720
 ---
