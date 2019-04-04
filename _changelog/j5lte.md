@@ -161,3 +161,14 @@ layout:changelayout
  * Some more optimization to Ambient Ticker and many other features
  * Added john notwoodman, who isn't woodman
 
+==============
+  2019-04-04
+==============
+
+ * Fixed a system hang caused by disabling edge gestures (credits to jenslody)
+ * Themed All apps search bar on Launcher3 
+ * Updated Links on Dumpster > About and also, removed G+ because that social network went to the same place our childhood puppy went, hope both come back soon :(
+ * Fixed a derp with the ShishuOTA overlay on Shishu Nights
+ * Added some missing headers on OmniStyle
+ * Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art. 
+
