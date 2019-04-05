@@ -1,5 +1,5 @@
 ---
-title:walleye
+title:taimen
 layout:changelayout
 ---
 =====================
@@ -23,9 +23,8 @@ Fix status bar brightness gesture
  * Fixed small derp on statusbar logo that shows the icon as intended and not very close to clock,
  * Fixed App sugestion padding bug on Launcher3.
 
-
 ==============
-  2019-03-06 
+  2019-03-29 
 ==============
 
  * Support for elmyra sensor (Active edge)
@@ -40,3 +39,16 @@ and ambient display
 phonograph
  * OP gestures
  * Smart and quick pulldown
+
+=====================
+    04/04/2019 
+===================== 
+* Fixed a system hang caused by disabling edge gestures (credits to jenslody) 
+* Themed All apps search bar on Launcher3 
+* Updated Links on Dumpster > About and also, removed G+ because that social network went to the same place our childhood puppy went, hope both come back soon :( 
+* Fixed a derp with the ShishuOTA overlay on Shishu Nights 
+* Added missing permissions for Pixel/Devices without debug props for permissions. 
+* Added some missing headers on OmniStyle 
+* Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art 
+* Remove lawnchair from default applications since it is causing frame drops
+* April Security patch merged
