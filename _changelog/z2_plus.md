@@ -103,3 +103,29 @@ Device Side Stuffs :
 * rebased dt over zuk devs git
 * fixed spectrum
 * Enforcing selinux
+
+=====================
+   06/04/2019 
+===================== 
+* Fixed a system hang caused by disabling edge gestures (credits to jenslody) 
+* Themed All apps search bar on Launcher3 
+* Updated Links on Dumpster > About and also, removed G+ because that social network went to the same place our childhood puppy went, hope both come back soon :( 
+* Fixed a derp with the ShishuOTA overlay on Shishu Nights
+* Added missing permissions for Pixel/Devices without debug props for permissions. 
+* Added some missing headers on OmniStyle 
+* Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art 
+* April Security patch merged
+
+Device side Stufs :
+
+• Update full graphics stack from LA.UM.7.5.r1-03700-8x96.0 
+* Update blobs from daisy 9/PKQ1.180917.001/V10.0.7 
+* improved miracast audio , etc (needs testing) 
+* hmp kernel by default
+* kernel: added sound control 
+* kernel: added wireguard
+* kernel: merged 4.4.178
+* kernel: added lot of improvements & fast charge
+* fixed u touch issues
+
+
