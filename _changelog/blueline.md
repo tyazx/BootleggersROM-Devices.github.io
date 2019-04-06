@@ -5,31 +5,16 @@ layout:changelayout
 Device:
 * Kernel by @Despairfactor
 * Fixed vendor mismatch error
-* March sec patches merged
+* April sec patches merged
+* Fixed Active edge
 
 BootleggersROM:
-* Fixed derps on powermenu toggle and secure power menu
-* ROM rebase to fix statusbar clock, now it should be work correctly, and even behave nicely on notch devices!
-* Statusbar Headers 
-* Lockscreen clocks
-* Launcher3 rebased and completely up-to-date
-* Switch volume panel position + Extended
-* Smart Pixels
-* Grid recents are back
-* Recents clear all + membar
-* Support for elmyra sensor (Active edge for the squeezy bois)
-* LS cover art filters, like grayscale and blur (might be buggy)
-* Kill all on notifs guts
-* Ambient ticker with new UI (based on Q beta)
-* Minimal stuff, like FP vibration authentication, disable qs slide on secured phones, tiles like sync and ambient display
-* Added our OTA app
-* Switched to gboard go and phonograph
-* Removed woodman
-* Slim Recents
-* Added changelog section
-* Themes: Themed more apps like OTA, Dialer, Contacts, File manager and phonograph
-* WPS Support
-* OP gestures
-* Smart and quick pulldown
-* Some more optimization to Ambient Ticker and many other features
-* Added john notwoodman, who isn't woodman
+There are some extra issues to solve but for now, we'll leave that to 4.2. With the addition of the april security patch, we did the following changes:
+
+* Fixed a system hang caused by disabling edge gestures (credits to jenslody)
+* Themed All apps search bar on Launcher3 
+* Updated Links on Dumpster > About and also, removed G+ because that social network went to the same place our childhood puppy went, hope both come back soon :(
+* Fixed a derp with the ShishuOTA overlay on Shishu Nights
+* Added missing permissions for Pixel/Devices without debug props for permissions.
+* Added some missing headers on OmniStyle
+* Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art.
