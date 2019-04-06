@@ -3,6 +3,21 @@ title:hero2lte
 layout:changelayout
 ---
 =====================
+    06/04/2019
+=====================
+- Updated to April security patch
+- Reflux Kernel R14:
+  * Added Moro Sound Control v2.1
+- Synced with Bootleggers source (4.1):
+  * Fixed a system hang caused by disabling edge gestures (credits to jenslody)
+  * Themed All apps search bar on Launcher3 
+  * Updated Links on Dumpster > About and also, removed G+ because that social network went to the same place our childhood puppy went,     hope both come back soon :(
+  * Fixed a derp with the ShishuOTA overlay on Shishu Nights
+  * Added missing permissions for Pixel/Devices without debug props for permissions.
+  * Added some missing headers on OmniStyle
+  * Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and     grayscaled + blurred cover art.
+  
+=====================
     29/03/2019
 =====================
 - Updated to March security patch
