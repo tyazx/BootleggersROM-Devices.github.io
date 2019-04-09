@@ -4,6 +4,15 @@ layout:changelayout
 ---
 
 ==============
+   06/04/19
+==============
+
+- April Sec Patch
+- BTLG 4.1
+- Added support for Airtel Volte on slot2(to get it woking in the first place, check XDA)
+
+
+==============
    16/03/19
 ==============
 
