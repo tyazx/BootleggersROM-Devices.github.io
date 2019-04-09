@@ -58,3 +58,18 @@ Bootleggers
 
 - 4.1 version update
 - https://bootleggersrom.github.io/2019/03/29/the-41-h-release.html
+
+============
+  09/04/19
+============
+
+Device
+
+- Fix a few perf denials
+- Increase AOD brightness just a bit
+
+Bootleggers
+
+- Merged April SP (9.0.0 r35)
+- Optimizeand add moar ls media art filters
+- Few under-the-hood stuff
