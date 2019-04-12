@@ -7,3 +7,10 @@ layout:changelayout
 =====================
 
 Initial Build
+
+=====================
+    12/04/2019
+=====================
+
+Minor Cleanups
+Include Google Camera by default
