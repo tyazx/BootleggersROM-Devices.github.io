@@ -3,6 +3,14 @@ title:hero2lte
 layout:changelayout
 ---
 =====================
+    17/04/2019
+=====================
+- Enabled Smart Pixels
+- Reflux Kernel R14:
+  * Upstreamed to Linux 3.18.138
+- Synced with Bootleggers source (4.1)
+
+=====================
     06/04/2019
 =====================
 - Updated to April security patch
