@@ -3,6 +3,23 @@ title:scorpio
 layout:changelayout
 ---
 =====================
+    18.04.2019 - 2nd Version (fixed)
+=====================
+* -ROM Side Stuff
+* LS filters: Add 2 more variants 
+* About: Update links 
+* Intensify the blur amount on LS cover art 
+* Add overlay for BoostFramework 
+* Intensify the blur amount on LS cover art
+* Add LS cover art filter
+* Tons of other stuff I forgot
+
+* -Device Side Stuff
+* fix build
+* add GCAM by default
+* enable qcom fw boost
+
+=====================
     18.04.2019
 =====================
 * -ROM Side Stuff
