@@ -4,6 +4,6 @@ layout:changelayout
 ---
 
  Device:
-* Fixed dual volte issue
-* Removed random reboot feature
-* Lineage Kernel is default for now
+* Switched to Lawnchair
+* Switched to thug kernel (shadow)
+* Bootleg Upstream
