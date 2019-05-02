@@ -34,7 +34,6 @@ plugins:
 collections:
     devices:
     changelog:
-      output: true
       permalink: /:collection/:title
 
 defaults:

@@ -39,14 +39,13 @@ title: Downloads
         <!-- Modal for {{device.codename}} -->
         <div id="modal-chlg-{{device.codename}}" class="modal modal-fixed-footer shishu-light-bg">
           <div class="modal-content">
-            <h4>Changelog</h4>
-        <div class="video-container">
-          <iframe width="853" height="480" src="https://bootleggersrom-devices.github.io/changelog/{{device.codename}}" frameborder="0" style="
-  @import url('https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css');
-  @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
-	background-color:#121217!important;
-	color:#f3f3f3;
-  font-family: 'Roboto Condensed', sans-serif!important;"></iframe></div>
+              {% for devicecl in site.changelog %}
+                 {{ devicecl }}
+                  {% if devicecl.title == device.codename %}
+                      <h4>Changelog for {{ device.codename }}</h4>
+                      <pre><code>{{devicecl.content}}</code></pre>
+                  {% endif %}
+              {% endfor %}
         </div>
           <div class="modal-footer shishu-light-bg">
             <a href="#!" class="modal-close waves-effect waves-light btn-flat">Close</a>
