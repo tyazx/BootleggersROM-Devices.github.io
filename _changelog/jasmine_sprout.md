@@ -4,7 +4,8 @@ layout:changelayout
 ---
 
 Changelog:
-* April security patches
-* Upstream and rebase kernel
-* Fingerprint gestures in XiaomiParts (4 directions)
-* Other ROM and device specific changes and fixes
+* Add thermal profiles
+* Xiaomi parts fixes and add controls for headphone/mic gain
+* HAL3 vendor prop for new gcam
+* Upstreamed kernel with EAS
+* Fixes and performance improvements
