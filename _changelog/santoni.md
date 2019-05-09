@@ -2,6 +2,9 @@
 title:santoni
 layout:changelayout
 ---
+    09/05/2019
+* Resynced bootleggers sources
+* Merged LA.UM.7.6.r1-04800-89xx.0 to kernel
     08/05/2019
 * Reverted ant+ changes
 * Upstreamed kernel to 3.18.139
@@ -16,6 +19,5 @@ layout:changelayout
 * Updated listen blobs from TA-1024
 * All tissot blobs updated from xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.7.0.PDHMIXM:user/release-keys
 * Removed useless props
-
     13/04/2019
 Initial Build
