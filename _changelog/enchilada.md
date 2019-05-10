@@ -184,4 +184,5 @@ Update gcam(thanks to arnova)
 * Updated clang                                         
 * Aggressive Battery Saver options added(Thanks to carbon team)                               
 * System uptime added                                
-* Three finger screenshot now working better thanks to PE team.                                          
+* Three finger screenshot now working better thanks to PE team.                                                
+* Nfc improvements
