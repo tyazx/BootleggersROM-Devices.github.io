@@ -177,11 +177,12 @@ Update gcam(thanks to arnova)
 
 
 =====================                                             
-    04/04/2019                                                                                               
+    10/05/2019                                                                                               
 =====================                                
 * May Security Patch merged                               
 * Kernel Upstreamed to .174           
 * Updated clang                                         
 * Aggressive Battery Saver options added(Thanks to carbon team)                               
 * System uptime added                                
-* Three finger screenshot now working better thanks to PE team.                                          
+* Three finger screenshot now working better thanks to PE team.                                                
+* Nfc improvements
