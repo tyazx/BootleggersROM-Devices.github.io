@@ -174,3 +174,14 @@ Update gcam(thanks to arnova)
 * Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art                                                              
 * Remove lawnchair from default applications since it is causing frame drops
 * April Security patch merged
+
+
+=====================                                             
+    04/04/2019                                                                                               
+=====================                                
+* May Security Patch merged                               
+* Kernel Upstreamed to .174           
+* Updated clang                                         
+* Aggressive Battery Saver options added(Thanks to carbon team)                               
+* System uptime added                                
+* Three finger screenshot now working better thanks to PE team.                                          
