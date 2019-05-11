@@ -52,3 +52,10 @@ phonograph
 * Fixed glitch on LS Filters for players like Phonograph, Black Player, etc, and also added 2 new effects, accent tinted cover art and grayscaled + blurred cover art 
 * Remove lawnchair from default applications since it is causing frame drops
 * April Security patch merged
+
+=====================
+    05/11/2019
+=====================
+* May Security Patch merged
+* Caesium kernel updated
+* Updated clang
