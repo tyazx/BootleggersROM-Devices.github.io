@@ -3,6 +3,18 @@ title:violet
 layout:changelayout
 ---
 =====================
+    12/05/2019
+=====================
+
+Device Side Stuff
+* Updated panel FW (fixes touch delay) thanks to @TheScarastic
+* Included dtbo
+
+ROM Side Stuff
+* Enabled Notch city from POSP
+* Source upstream
+
+=====================
     10/05/2019
 =====================
 
