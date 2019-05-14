@@ -4,7 +4,7 @@ layout:changelayout
 ---
 
 ==============
-   01/04/19
+   14/05/19
 ==============
 Bootleggers 4.1
 
@@ -28,8 +28,7 @@ Bootleggers 4.1
 
 Device changes
 
-* Add Doze 
-* Fix sepolicy denials
-* Upgrade kernel to 4.9
-* Add EAS and some other spicy stuff
-* Add GCam
+* Merge LOS changes for kuntao
+* Revert things
+* Upstream kernel to 3.18.139 with latest caf tag
+* May security patch
