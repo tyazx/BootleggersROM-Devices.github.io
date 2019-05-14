@@ -3,6 +3,16 @@ title:scorpio
 layout:changelayout
 ---
 =====================
+    14.05.2019
+=====================
+* -ROM Side Stuff
+* Merged May Security Patches
+* Tons of other stuff I forgot
+
+* -Device Side Stuff
+* add GCAM Playground
+
+=====================
     18.04.2019 - 2nd Version (fixed)
 =====================
 * -ROM Side Stuff
