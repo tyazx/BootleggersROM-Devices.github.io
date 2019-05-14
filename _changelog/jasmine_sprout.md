@@ -4,8 +4,11 @@ layout:changelayout
 ---
 
 Changelog:
-* Add thermal profiles
-* Xiaomi parts fixes and add controls for headphone/mic gain
-* HAL3 vendor prop for new gcam
-* Upstreamed kernel with EAS
-* Fixes and performance improvements
+* Merge caf tag LA.UM.7.2.r1-06900
+* Introduce Simple Low Memory Killer for Android
+* Migrate to livedisplay 2.0
+* Nuke sepolicys unrelated to device
+* Compile kernel with Clang 9.0.3
+* Mute Storaged logcat spam
+* Improve Slovak translation of XiaomiParts
+* May security patch
