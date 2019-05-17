@@ -3,6 +3,17 @@ title:herolte
 layout:changelayout
 ---
 =====================
+    17/05/2019
+=====================
+- Fixed HWC
+- Updated kernel to 3.18.139
+- Updated vendor security patch to match (Latest at the moment samsung decided to drop support for monthly patches on s7 so they update it every 3 months now, we dont use a lot of blobs from stock anyway so this is non issue)
+- Updated system security patch to may
+- Enabled quota support on /data (Make sure you are on latest twrp)
+- Misc performance and stability improvements
+- Synced with Bootleggers source (4.1)
+
+=====================
     17/04/2019
 =====================
 - Enabled Smart Pixels
