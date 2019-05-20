@@ -1,6 +1,5 @@
 ---
-title:marlin
-layout:changelayout
+codename:marlin
 ---
 
 Device:

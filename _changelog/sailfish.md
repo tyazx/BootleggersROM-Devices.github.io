@@ -1,6 +1,5 @@
 ---
-title:sailfish
-layout:changelayout
+codename:sailfish
 ---
 
 Device:

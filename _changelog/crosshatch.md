@@ -1,6 +1,5 @@
 ---
-title:crosshatch
-layout:changelayout
+codename:crosshatch
 ---
 Device:
 * Kernel by @Despairfactor

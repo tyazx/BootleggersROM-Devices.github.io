@@ -1,6 +1,5 @@
 ---
-title:klte
-layout:changelayout
+codename:klte
 ---
 
 ==============

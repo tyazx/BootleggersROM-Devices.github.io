@@ -121,6 +121,6 @@ nav .brand-logo > img {
   height:450px;
 }
 
-.iframecl {
-  margin:1em;
+.cl-code {
+  font-family: monospace, monospace!important;
 }

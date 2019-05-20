@@ -1,6 +1,5 @@
 ---
-title:surnia
-layout:changelayout
+codename:surnia
 ---
 
 Device:

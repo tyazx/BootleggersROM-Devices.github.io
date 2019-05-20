@@ -1,6 +1,5 @@
 ---
-title:whyred
-layout:changelayout
+codename:whyred
 ---
 =====================
     11/04/2019

@@ -1,6 +1,5 @@
 ---
-title:kltekdi
-layout:changelayout
+codename:kltekdi
 ---
 
 ==============

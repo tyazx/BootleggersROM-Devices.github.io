@@ -1,6 +1,5 @@
 ---
-title:vince
-layout:changelayout 
+codename:vince 
 ---
 
 ==============

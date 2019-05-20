@@ -1,6 +1,5 @@
 ---
-title:kltedv
-layout:changelayout
+codename:kltedv
 ---
 
 ==============

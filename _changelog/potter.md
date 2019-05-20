@@ -1,6 +1,5 @@
 ---
-title:potter
-layout:changelayout 
+codename:potter 
 ---
 
 ==============

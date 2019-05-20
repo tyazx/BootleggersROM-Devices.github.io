@@ -1,6 +1,5 @@
 ---
-title:cheeseburger
-layout:changelayout
+codename:cheeseburger
 ---
 =====================
     03/10/2019

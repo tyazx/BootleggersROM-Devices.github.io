@@ -1,6 +1,5 @@
 ---
-title:beryllium
-layout:changelayout
+codename:beryllium
 ---
 
  Device:

@@ -1,6 +1,5 @@
 ---
-title:hero2lte
-layout:changelayout
+codename:hero2lte
 ---
 =====================
     17/05/2019

@@ -1,6 +1,5 @@
 ---
-title:oneplus3
-layout:changelayout 
+codename:oneplus3
 ---
 
 ==============

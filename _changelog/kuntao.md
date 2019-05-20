@@ -1,6 +1,5 @@
 ---
-title:kuntao
-layout:changelayout 
+codename:kuntao 
 ---
 
 ==============

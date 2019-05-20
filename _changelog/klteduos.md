@@ -1,6 +1,5 @@
 ---
-title:klteduos
-layout:changelayout
+codename:klteduos
 ---
 
 ==============

@@ -1,6 +1,5 @@
 ---
-title:jasmine_sprout
-layout:changelayout
+codename:jasmine_sprout
 ---
 
 Changelog:

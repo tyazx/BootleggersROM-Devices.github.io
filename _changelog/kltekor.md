@@ -1,6 +1,5 @@
 ---
-title:kltekor
-layout:changelayout
+codename:kltekor
 ---
 
 ==============

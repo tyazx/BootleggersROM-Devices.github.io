@@ -1,6 +1,5 @@
 ---
-title:blueline
-layout:changelayout
+codename:blueline
 ---
 Device:
 * Kernel by @Despairfactor

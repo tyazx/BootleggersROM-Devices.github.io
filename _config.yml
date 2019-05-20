@@ -34,14 +34,6 @@ plugins:
 collections:
     devices:
     changelog:
-      permalink: /:collection/:title
-
-defaults:
-  - scope:
-      path: ""
-      type: "changelog"
-    values:
-      layout: changelayout
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

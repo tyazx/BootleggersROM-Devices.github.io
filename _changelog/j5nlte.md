@@ -1,6 +1,5 @@
 ---
-title:j5nlte
-layout:changelayout
+codename:j5nlte
 ---
 
 ==============

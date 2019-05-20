@@ -1,6 +1,5 @@
 ---
-title:fajita
-layout:changelayout
+codename:fajita
 ---
 =====================
     08/02/2019

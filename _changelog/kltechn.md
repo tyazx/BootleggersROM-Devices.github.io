@@ -1,6 +1,5 @@
 ---
-title:kltechn
-layout:changelayout
+codename:kltechn
 ---
 
 ==============

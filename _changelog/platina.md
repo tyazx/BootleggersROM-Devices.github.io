@@ -1,6 +1,5 @@
 ---
-title:platina
-layout:changelayout 
+codename:platina 
 ---
 
 ==============
