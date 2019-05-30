@@ -2,7 +2,7 @@
 codename:jasmine_sprout
 ---
 =====================
-    17/05/2019
+    29/05/2019
 =====================
 - Build with TWRP
 - Add F2FS support in TWRP
