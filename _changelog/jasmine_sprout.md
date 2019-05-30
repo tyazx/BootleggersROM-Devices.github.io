@@ -1,13 +1,31 @@
 ---
 codename:jasmine_sprout
 ---
+=====================
+    17/05/2019
+=====================
+- Build with TWRP
+- Add F2FS support in TWRP
+- Add support for suspend mixer ctls
+- Remove Dolby formats by default
+- Add stock dpi values
+- Add splach support
+- Fix stereo recording and noise cancellation mic
+- Update to latest taimen build fingerprint
+- Build vr blobs
+- Enable HAL3 by default in XP
+- Add Slovak XP translation
+- Update energy model by @hypearts
+- Many kernel tweaks and fixes
 
-Changelog:
-* Merge caf tag LA.UM.7.2.r1-06900
-* Introduce Simple Low Memory Killer for Android
-* Migrate to livedisplay 2.0
-* Nuke sepolicys unrelated to device
-* Compile kernel with Clang 9.0.3
-* Mute Storaged logcat spam
-* Improve Slovak translation of XiaomiParts
-* May security patch
+=====================
+    14/05/2019
+=====================
+- Merge caf tag LA.UM.7.2.r1-06900
+- Introduce Simple Low Memory Killer for Android
+- Migrate to livedisplay 2.0
+- Nuke sepolicys unrelated to device
+- Compile kernel with Clang 9.0.3
+- Mute Storaged logcat spam
+- Improve Slovak translation of XiaomiParts
+- May security patch
