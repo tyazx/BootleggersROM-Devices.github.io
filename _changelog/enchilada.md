@@ -184,4 +184,12 @@ Update gcam(thanks to arnova)
 * Aggressive Battery Saver options added(Thanks to carbon team)                               
 * System uptime added                                
 * Three finger screenshot now working better thanks to PE team.                                                
-* Nfc improvements
+* Nfc improvements                           
+
+
+=====================                                             
+    01/06/2019                                                                                               
+=====================                                
+* Supports Wifi Cast              
+* Kernel upstreamed
+* Change alarms only mode to silent ringer 
