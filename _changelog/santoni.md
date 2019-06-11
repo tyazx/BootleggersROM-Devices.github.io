@@ -1,6 +1,9 @@
 ---
 codename:santoni
 ---
+    11/06/2019
+* Rebased to non treble tree (thx to Nichcream for common tree and Ryan for improving it)
+* Latest DarkPhoenix kernel built with clang 9.0.3
     09/05/2019
 * Resynced bootleggers sources
 * Merged LA.UM.7.6.r1-04800-89xx.0 to kernel
