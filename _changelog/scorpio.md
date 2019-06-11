@@ -5,6 +5,30 @@ codename:scorpio
     14.05.2019
 =====================
 * -ROM Side Stuff
+* - 4.2 version update
+* Added translations (WIP)
+* Fixed emergency icon tinting, credits to PE 
+* Rebased telephony repos 
+* Lockscreen date styles 
+* Shishu Themes now have LIT instead of LTE 
+* Added Q clock with extra changes for date and owner 
+* Aggresive Battery 
+* Custom fingerprint icons for OP devices 
+* Fixed Markup building for all devices 
+* Added Q seekbar with a small ui change 
+* Added improvements for 3 finger screenshot 
+* Re-introduced Woodman due to devices bootlooping 
+* One Hand UI 
+* Pixel Navbar animation 
+* Some extra undocumented kanging for legal reasons 
+* Added some new QS styles 
+* Fixes and improvements 
+* Launcher3 now has the window to icon animations, and also, fixed dark google feed
+
+=====================
+    14.05.2019
+=====================
+* -ROM Side Stuff
 * Merged May Security Patches
 * Tons of other stuff I forgot
 
