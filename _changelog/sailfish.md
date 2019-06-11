@@ -3,24 +3,25 @@ codename:sailfish
 ---
 
 Device:
-- reworked kernel
-- updated kernel/images to March
+ - Switched to libperfmgr from Wahoo instead of perfd. Libperfmgr is much much more configurable and boosts less (doesn't boost on touch, only flings, etc.)
+ - Reworked kernel.
+ - Other miscellaneous changes
 
 ROM:
-- merged March patches (r34)
-- fixed statusbar clock on lockscreen
-
- Launcher3:
-- ability to change at a glance color
-- ability to add at a glance background
-- adaptive icon backgrounds
-- ability to disable searchbar text
-- change drawable on search provider change
-
- ShishuOTA:
-- experimental ShishuOTA stuff picked in
-
-NOTE: due to a weird ShishuOTA bug that
-is being worked on, you may need to clear
-storage of the ShishuOTA app in settings
-in order to view the new update!
+ - Q clock
+ - LS date styles
+ - imported translations
+ - added more QS styles
+ - Pixel navbar toggle
+ - One Hand UI
+ - option to suppress notification sounds when screen is on
+ - swipe to screenshot improvements
+ - Q seekbar on media notifications
+ - Aggressive battery
+ - Lock screen media filters
+ - Built with Lawnchair as the default Launcher
+ - Smart QS pull down
+ - Weather client improvements
+ - expanded volume panel
+ - option to enable AOD on charge only
+ - Fixed Google Markup
