@@ -1,6 +1,22 @@
 ---
 codename:jasmine_sprout
 ---
+
+=====================
+    29/05/2019
+=====================
+Full 4.2 changelog on https://bootleggersrom.github.io/blog
+
+- Fixed Low mic gain in Camera apps
+- Added Anxiety I/O Scheduler
+- Fixed random Reboot issue after Connecting to wifi
+- Fixed Vibration Intensity
+- Fixed Hotspot after CAF merge
+- Reverted back to old Vibration HAL
+- Includes EAS V7 Kernel
+- General bug fixes and improvements
+- Reverted back to the old gaming mode
+
 =====================
     29/05/2019
 =====================
