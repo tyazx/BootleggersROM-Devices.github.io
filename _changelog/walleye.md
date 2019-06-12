@@ -3,7 +3,7 @@ codename:walleye
 ---
 
 =====================
-    11/06/2019
+    12/06/2019
 =====================
 * - 4.2 version update
 * Added translations (WIP)
