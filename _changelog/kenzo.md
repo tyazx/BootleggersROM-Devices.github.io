@@ -1,40 +1,24 @@
 ---
 codename:kenzo
 ---
-==============
-   14/05/19
-==============
 
-- March Sec Patch
-- BTLG Upstream
-
-==============
-   06/04/19
-==============
-
-- April Sec Patch
-- BTLG 4.1
-- Added support for Airtel Volte on slot2(to get it woking in the first place, check XDA)
-
-
-==============
-   16/03/19
-==============
-
-Device
-
-- Amol's tree
-- Advanced Controls
-- Kenzo Sax
-- Stock Thermals
-- Misc stuff
-
-Bootleggers
-
-- Quick settings header images
-- Ambient visualiser
-- Lockscreen clocks
-- Misc under-the-hood changes
-- March Sec Patch
-
-CLEAN FLASH REQUIRED
+ Device:
+* Added translations
+* Fixed emergency icon tinting, credits to PE
+* Rebased telephony repos
+* Lockscreen date styles
+* Shishu Themes now have LIT instead of LTE
+* Added Q clock with extra changes for date and owner
+* Aggresive Battery
+* Custom fingerprint icons for OP devices 
+* Fixed Markup building for all devices
+* Added Q seekbar with a small ui change
+* Added improvements for 3 finger screenshot
+* Re-introduced Woodman due to devices bootlooping
+* One Hand UI
+* Pixel Navbar animation
+* Some extra undocumented kanging for legal reasons
+* Added some new QS styles
+* Fixes and improvements
+* Launcher3 now has the window to icon animations, and also, fixed dark google feed
+* Revert: Revert: [DO NOT MERGE] Partial Revert of john woodman
