@@ -3,9 +3,9 @@ codename: walleye
 fullname: Pixel 2
 maintainer: slothdabski
 xdathread: https://forum.xda-developers.com/pixel-2/development/rom-bootleggersrom-4-0-stable-t3884138
-filename: BootleggersROM-Pie4walleye.4.1-Stable-Shishufied-20190510-203153.zip
-downloadid: 8888
+filename: BootleggersROM-Pie4walleye.4.2-Stable-Shishufied-20190611-144125.zip
+downloadid: 666
 newformat: true
-buildsize: 1050277630
+buildsize: 1043407581
 mirrorlink: https://sourceforge.net/projects/bootleggersrom/files/builds/walleye/
 ---
