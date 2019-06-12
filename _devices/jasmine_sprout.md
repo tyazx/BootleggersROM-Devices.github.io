@@ -3,7 +3,7 @@ codename: jasmine_sprout
 fullname: Xiaomi Mi A2
 maintainer: Fullbustah
 xdathread: https://forum.xda-developers.com/mi-a2/development/unshishufied-bootleggersrom-4-0-t3885588
-filename: BootleggersROM-Pie4jasmine_sprout.4.1-Stable-Shishufied-20190529-192446.zip
+filename: BootleggersROM-Pie4jasmine_sprout.4.2-Stable-Shishufied-20190611-211616.zip
 newformat: true
-buildsize: 860402562
+buildsize: 827885337
 ---
