@@ -1,6 +1,29 @@
 ---
 codename:violet
 ---
+
+=====================
+    01/07/2019
+=====================
+
+Device Side Changes
+- Update blobs to MIUI 9.6.27
+- Drop goodix firmware
+- Update Build fingerprint to V10.3.9.0
+- Enable OEM unlocking option
+- Add Vector icons to Xiaomi Parts
+- Update rootdir/configs from caf
+- Drop prebuilt media HAL
+- Partially  build display HAL
+- Force VoLTE on supported carriers
+- Update GPS HAL to  LA.UM.7.9.r1-07300-sm6150.0
+- Enable 4k recording on front cam
+- Use Studio Thermal Profile for camera
+- Address Camera lags
+- Improved signal reception
+- Build context hub / qti camera device
+- Add Dirac Sound Control
+
 =====================
     13/06/2019
 =====================
