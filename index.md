@@ -40,7 +40,12 @@ title: Downloads
         <div id="modal-chlg-{{device.codename}}" class="modal modal-fixed-footer shishu-light-bg">
           <div class="modal-content">
               <h4>Changelog for {{ device.codename }}</h4>
-              <div class="cl-code">{{ site.changelog[forloop.index0] }}</div>
+                {% for changedevice in site.changelog %}
+                    {% assign name = changedevice.path | split:"/" | last | split:"." | first %}
+                    {% if name == {{ device.codename }} %}
+                        <div class="cl-code">{{item.content}}</div>
+                    {% endif %}
+                {% endfor %}
         </div>
           <div class="modal-footer shishu-light-bg">
             <a href="#!" class="modal-close waves-effect waves-light btn-flat">Close</a>
@@ -49,4 +54,6 @@ title: Downloads
       {% endfor %}
     </ul>
   </div>
+  <h3>debug</h3>
+  {% comment %} {{site.changelog}}{% endcomment %}.
 </div>
