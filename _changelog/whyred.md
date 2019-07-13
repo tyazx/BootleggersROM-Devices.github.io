@@ -57,3 +57,13 @@ codename:whyred
 * Fixes and improvements
 * Launcher3 now has the window to icon animations, and also, fixed dark google feed
 * Revert: Revert: [DO NOT MERGE] Partial Revert of john woodman
+
+=====================
+    13/07/2019
+=====================
+
+* July Security Patch
+* Update DerpKernel
+* Remove GoogleCamera , existing users will be able to uninstall
+* Minor performance improvements
+* Set delay for screenshot to 0
