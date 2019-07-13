@@ -3,6 +3,25 @@ codename:violet
 ---
 
 =====================
+    13/07/2019
+=====================
+
+Device Side Changes
+- Parts: Migrate to androidx
+- Add QPerformance and UxPerformance jars
+- Compile kernel with clang 9.0.5
+- Camera: Hack focus modes
+- Add missing media blobs
+- Import media properties XML from LA.UM.7.9.r1-07500-sm6150.0
+- Update gps config from caf
+- Build some soundfx from source
+- Bring back WMA
+- Restore stock bluetooth HAL
+
+ROM Side Changes:
+- July Security Patches
+
+=====================
     01/07/2019
 =====================
 
