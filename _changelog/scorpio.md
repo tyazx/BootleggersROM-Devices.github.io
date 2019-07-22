@@ -2,6 +2,16 @@
 codename:scorpio
 ---
 =====================
+    22.06.2019
+=====================
+* -ROM Side Stuff
+* July Security Patches
+
+* -Device Side Stuff
+* correct GCam Version
+* switch to LOS trees
+
+=====================
     14.05.2019
 =====================
 * -ROM Side Stuff
