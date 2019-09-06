@@ -27,5 +27,5 @@ Device:
 * Merge 4.4.183 into android-4.4
 * Merge LA.UM.7.5.2.r1-03300-8x96.0
 * qcacld-2.0: Merge LA.UM.7.5.2.r1-03300-8x96.0
-* Back to ZUKDoze
+* Back to ZUK Doze
 * Implemented Pixel 2 vibration intensity
