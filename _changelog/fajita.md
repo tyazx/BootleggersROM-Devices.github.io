@@ -83,3 +83,49 @@ codename:fajita
 - Some extra undocumented kanging for legal reasons
 - Added some new QS styles
 - Fixes and improvements
+
+=====================
+    25/07/2019 
+=====================
+- July security patch merged
+- [TEMP] Switched to Illusion kernel
+- Kernel upstreamed to .186
+- Clang updated to 9.0.5
+- New In-display fingerprint implementation from LineageOS
+- Fingerprint unlock now works on AOD too
+- New default fingerprint icon that changes colours based on accent
+- Re-adapted custom FOD icon picker to support new implementation
+- Screenshot delay reduced
+- Blobs updated from OOS 9.0.7
+
+=====================
+    08/09/2019 
+=====================
+- Bootleggers 4.3 Update
+- Gaming Mode v2
+- Fixes for QS detailed view
+- Advanced location enabled
+- Shishu Launcher Premium upgrade
+- Added LiveDisplay
+- Force powersave on system apps
+- New intro for new devices
+- Moving net indicator to expanded statusbar header
+- Fixes for Q clock strings
+- Long screenshot
+- Internal Audio recording
+- New launcher quickspace stuff: Adding now playing -even though it's not fully compatible-, Personality (taken from lawnchair) and a new UI, more minimalistic
+- Fixed the inverted navbar layout
+- Switched to Lineage Fingerprint on Display code
+- Added support for sliders for OP devices
+- Added some goofy stuff: like The Drill and Developer mode insulter
+- Updated our APNs
+- Fixed dialer dark numbers on numpad
+- Misc fixes
+- Kernel upstreamed to .191
+- Update blobs to OOS 9.0.8
+- August security patch merged
+- Partial OnePlus camera support (Night mode and potrait mode not working)
+- Cutout Hide option in developer settings fixed
+- Added OnePlus Settings
+- Added DC-Dimming support
+
