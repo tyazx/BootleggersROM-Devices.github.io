@@ -257,3 +257,14 @@ Update gcam(thanks to arnova)
 * Misc fixes
 * Removed Roblox as system app
 
+
+
+=====================     
+     10/09/2019                                                                                                   
+=====================  
+* September security patch                  
+* Network icons fixed.                 
+* More bug fixes and optimisations
+
+
+
