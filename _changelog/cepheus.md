@@ -3,7 +3,14 @@ codename:cepheus
 ---
 
 =====================
-    09/23/2019
+    30/09/2019
+=====================
+* Device Side Stuff 
+* bring up oos vendor
+* fix Bluetooth
+
+=====================
+    23/09/2019
 =====================
 * Gaming Mode v2 -Now with roblox support-
 * Fixes for QS detailed view
