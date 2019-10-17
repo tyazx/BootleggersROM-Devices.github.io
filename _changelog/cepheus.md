@@ -3,6 +3,13 @@ codename:cepheus
 ---
 
 =====================
+    17/10/2019
+=====================
+* Device Side Stuff 
+* add DT2W
+* add GCAM as 1st CAM
+
+=====================
     30/09/2019
 =====================
 * Device Side Stuff 
