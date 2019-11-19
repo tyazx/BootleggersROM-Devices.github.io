@@ -2,8 +2,8 @@
 codename: lavender
 fullname: Xiaomi Redmi Note 7
 maintainer: ElDainosor
-filename: BootleggersROM-Queue4lavender.4.7-MadStinky-Shishufied-20191114-041352.zip
+filename: BootleggersROM-Queue4lavender.4.7-MadStinky-Shishufied-20191119-003501.zip
 newformat: true
-notes: Initial build, Cast API broken, and maybe some gcams will crash, report more in case that something else is broken
-buildsize: 840532285
+notes: Mic pretty broken, headphones mic not working, report with logs if something else is not working (obviously on bootleg chat lmao)
+buildsize: 857732711
 ---
