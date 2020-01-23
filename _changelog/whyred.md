@@ -45,7 +45,7 @@ codename:whyred
 * Shishu Themes now have LIT instead of LTE
 * Added Q clock with extra changes for date and owner
 * Aggresive Battery
-* Custom fingerprint icons for OP devices 
+* Custom fingerprint icons for OP devices
 * Fixed Markup building for all devices
 * Added Q seekbar with a small ui change
 * Added improvements for 3 finger screenshot
@@ -67,3 +67,12 @@ codename:whyred
 * Remove GoogleCamera , existing users will be able to uninstall
 * Minor performance improvements
 * Set delay for screenshot to 0
+
+=====================
+    23/01/2020
+=====================
+
+* Initial Queso build
+* SeLinux Enforcing
+* Add some features
+* For a more fancy schmancy changelog , go to https://github.com/simrat39/device_xiaomi_whyred/commits/queso
