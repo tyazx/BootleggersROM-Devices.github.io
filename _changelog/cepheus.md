@@ -5,6 +5,17 @@ codename:cepheus
 =====================
     17/10/2019
 =====================
+* ROM SIDE STUFF:
+* initial 5.0 build
+*
+* DEVICE SIDE STUFF
+* refixed BT (derped myself...)
+* many small improvements under the hood
+
+
+=====================
+    17/10/2019
+=====================
 * Device Side Stuff 
 * add DT2W
 * add GCAM as 1st CAM
