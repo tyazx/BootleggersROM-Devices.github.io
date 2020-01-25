@@ -2,6 +2,36 @@
 codename:violet
 ---
 =====================
+    23/01/2020
+=====================
+
+Device Changes:
+- Inline firmware and custom modem.
+- Reduced touch latency
+- a bunch of other stuff (check the trees)
+
+ROM Changes:
+- Initial stable 10 release
+- Added UI Styles and Screen recorder with internal audio support
+- Launcher3 tweaks: Icon packs, at a glance, a dark mode friendly google panel
+- Material toasts
+- Suspend actions
+- Power menu options and disable on secured lock
+- QS columns and rows
+- Network indicator with OOS style (thanks ArrowOS)
+- Pulse on new tracks and ambient visualizer
+- Lockscreen cover blur and our silly filters
+- Toggle brightness slider, auto brightness icon
+- Show running services and even our custom footer text instead of the build info (you can make your own too)
+- Vibrate on tapping QS tiles
+- 3 Fingers to screenshot
+- Headsup with all those tweaks
+- Fingerprint tweaks like error vibration and all that jazz
+- OmniJaws for weather (because it's reliable even on a non-gapps scenario)
+- OmniStyle with our header spicy selection, and also, a bug fix for 4K images that made the SystemUI crash and burn
+- Maybe some more things
+
+=====================
     21/09/2019
 =====================
 
