@@ -3,27 +3,9 @@ codename:beryllium
 ---
 
 Device Changes:
-- Updated Q Blobs
-- Kernel upstreamed to Linux 4.9.211
-- And yes Anxcam works now
-
-ROM Changes:
-- Initial stable 10 release
-- Added UI Styles and Screen recorder with internal audio support
-- Launcher3 tweaks: Icon packs, at a glance, a dark mode friendly google panel
-- Material toasts
-- Suspend actions
-- Power menu options and disable on secured lock
-- QS columns and rows
-- Network indicator with OOS style (thanks ArrowOS)
-- Pulse on new tracks and ambient visualizer
-- Lockscreen cover blur and our silly filters
-- Toggle brightness slider, auto brightness icon
-- Show running services and even our custom footer text instead of the build info (you can make your own too)
-- Vibrate on tapping QS tiles
-- 3 Fingers to screenshot
-- Headsup with all those tweaks
-- Fingerprint tweaks like error vibration and all that jazz
-- OmniJaws for weather (because it's reliable even on a non-gapps scenario)
-- OmniStyle with our header spicy selection, and also, a bug fix for 4K images that made the SystemUI crash and burn
-- Maybe some more things
+- Inlined Q firmware (No need to flash it seperately now)
+- Ambient gestures fixed
+- Network indicator fixed
+- Kernel upstreamed to Linux 4.9.212
+- Fixed Anxcam portrait (No fixes needed)
+- Added support for network signal guru app
