@@ -204,4 +204,8 @@ codename:j5nlte
  * Sim pin does not work, so sim has to be unlocked before using
  * Mobile data only works sometimes
 
+==============
+  2020-02-15
+==============
 
+ * February security patch
