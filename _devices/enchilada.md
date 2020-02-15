@@ -4,8 +4,8 @@ fullname: Oneplus 6
 maintainer: Ayan
 downloadid: 95ccd42d53
 newformat: true
-xdathread: https://forum.xda-developers.com/oneplus-6/development/rom-bootleggersrom-3-5-beta-unshishufied-t3871649
-filename:  BootleggersROM-Pie4enchilada.4.3-Stable-Shishufied-20190910-020523.zip
+xdathread: https://forum.xda-developers.com/oneplus-6/development/rom-bootleggersrom-stable-shishufied-t4051447
+filename:  BootleggersROM-Queue4enchilada.5.0-Stable-Shishufied-20200215-085702.zip
 buildsize: 664654642
-mirrorlink: https://androidfilehost.com/?fid=6006931924117893169
+mirrorlink: https://www.androidfilehost.com/?fid=4349826312261723956
 ---
