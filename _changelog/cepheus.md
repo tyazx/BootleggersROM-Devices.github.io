@@ -3,6 +3,20 @@ codename:cepheus
 ---
 
 =====================
+    25/02/2020
+=====================
+* ROM SIDE STUFF:
+* added LockscreenChargingInfo
+* Hide pill in full gestural nav mode
+*
+* DEVICE SIDE STUFF
+* switched to new akash trees
+* back to DerpedKernel (THX to DarkDampSquib)
+* fixed Portraid mode in ANX cam (THX to DarkDampSquib)
+* fixed L1 for Netflix and co (THX to DarkDampSquib)
+* many little fixes under the hood
+
+=====================
     17/10/2019
 =====================
 * ROM SIDE STUFF:
