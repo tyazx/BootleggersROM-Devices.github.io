@@ -209,3 +209,9 @@ codename:j5nlte
 ==============
 
  * February security patch
+
+==============
+  2020-02-26
+==============
+
+ * Mobile data fixed
