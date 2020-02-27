@@ -47,3 +47,10 @@ codename:j5xnlte
 ==============
 
  * Mobile data fixed
+
+==============
+  2020-02-27
+==============
+
+ * Fix bug introduced with last update, where sim-card was not found on clean install
+ * Unlocking sim with a pin fixed
