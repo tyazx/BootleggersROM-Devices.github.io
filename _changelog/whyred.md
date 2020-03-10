@@ -76,3 +76,11 @@ codename:whyred
 * SeLinux Enforcing
 * Add some features
 * For a more fancy schmancy changelog , go to https://github.com/simrat39/device_xiaomi_whyred/commits/queso
+
+=====================
+    10/03/2020
+=====================
+
+* Add some features
+* Fix some stuff
+* For a more fancy schmancy changelog , go to https://github.com/simrat39/device_xiaomi_whyred/commits/queso
