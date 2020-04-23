@@ -63,4 +63,5 @@ codename:j5xnlte
  * NFC works now
  * DRM works, widevine L3 -> Netflix-app and chrome-issues gone
  * Bluetooth-audio bug fixed
+ * Dirac added
  * Encryption works (be careful, take a full backup and read my xda-thread)

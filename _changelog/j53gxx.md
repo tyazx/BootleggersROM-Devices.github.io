@@ -222,3 +222,14 @@ codename:j5nlte
 
  * Fix bug introduced with last update, where sim-card was not found on clean install
  * Unlocking sim with a pin fixed
+
+==============
+  2020-04-23
+==============
+
+ * Bootleggers 5.1 with many new features
+ * NFC works now
+ * DRM works, widevine L3 -> Netflix-app and chrome-issues gone
+ * Bluetooth-audio bug fixed
+ * Dirac added
+ * Encryption works (be careful, take a full backup and read my xda-thread)
