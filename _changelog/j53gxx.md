@@ -233,3 +233,9 @@ codename:j5nlte
  * Bluetooth-audio bug fixed
  * Dirac added
  * Encryption works (be careful, take a full backup and read my xda-thread)
+
+==============
+  2020-04-23
+==============
+
+ * FM-Radio fixed
