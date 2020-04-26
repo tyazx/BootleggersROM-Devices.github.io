@@ -71,3 +71,9 @@ codename:j5xnlte
 ==============
 
  * FM-Radio fixed
+
+==============
+  2020-04-26
+==============
+
+ * Offline charging fixed
