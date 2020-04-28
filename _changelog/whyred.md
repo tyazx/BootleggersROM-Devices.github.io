@@ -84,3 +84,12 @@ codename:whyred
 * Add some features
 * Fix some stuff
 * For a more fancy schmancy changelog , go to https://github.com/simrat39/device_xiaomi_whyred/commits/queso
+
+=====================
+    28/04/2020
+=====================
+
+* Source - http://www.bootleggersrom.xyz/2020/04/23/the-51-lucid-dream.html
+* Improve padding in qs panel
+* Fix sd card mounting issue
+* For a more fancy schmancy changelog , go to https://github.com/simrat39/device_xiaomi_whyred/commits/queso
