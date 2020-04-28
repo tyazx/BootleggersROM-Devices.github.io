@@ -316,3 +316,13 @@ Device Side Changes -
 * Volume slider added to the left
 * Gcam added
 * Many more changes which i forgot
+
+
+=====================                         
+     28/04/2020                     
+=====================       
+
+
+* Styles got fixed
+* Updated blobs to 10.3.3
+* Added QS tiles - NFC and Sound Search
