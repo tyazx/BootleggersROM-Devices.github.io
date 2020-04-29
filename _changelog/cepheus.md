@@ -3,6 +3,12 @@ codename:cepheus
 ---
 
 =====================
+    29/04/2020
+=====================
+* ROM SIDE STUFF:
+* fix FOD pressed state
+
+=====================
     23/04/2020
 =====================
 * DEVICE SIDE STUFF:
