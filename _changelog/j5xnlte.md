@@ -77,3 +77,12 @@ codename:j5xnlte
 ==============
 
  * Offline charging fixed
+
+==============
+  2020-06-08
+==============
+
+ * May security patch
+ * Screenrecording fixed
+ * Caffeine tile added
+ * Battery bar

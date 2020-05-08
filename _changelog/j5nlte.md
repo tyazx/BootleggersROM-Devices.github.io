@@ -239,3 +239,12 @@ codename:j5nlte
 ==============
 
  * FM-Radio fixed
+
+==============
+  2020-06-08
+==============
+
+ * May security patch
+ * Screenrecording fixed
+ * Caffeine tile added
+ * Battery bar
