@@ -326,3 +326,11 @@ Device Side Changes -
 * Styles got fixed
 * Updated blobs to 10.3.3
 * Added QS tiles - NFC and Sound Search
+
+=====================                         
+     09/05/2020                     
+=====================
+
+* May Security Patch
+* Twrp inbuilt
+* Added more QS Tiles
