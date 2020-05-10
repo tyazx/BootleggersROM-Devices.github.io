@@ -3,6 +3,13 @@ codename:cepheus
 ---
 
 =====================
+    10/05/2020
+=====================
+* ROM SIDE STUFF:
+* May Security Patch
+* Added more QS Tiles
+
+=====================
     29/04/2020
 =====================
 * ROM SIDE STUFF:
