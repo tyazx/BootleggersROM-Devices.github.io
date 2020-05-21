@@ -79,10 +79,24 @@ codename:j5xnlte
  * Offline charging fixed
 
 ==============
-  2020-06-08
+  2020-05-08
 ==============
 
  * May security patch
  * Screenrecording fixed
  * Caffeine tile added
  * Battery bar
+
+==============
+  2020-05-21
+==============
+
+ * Statusbar brightness slider
+ * VPN tile added
+ * Screenrecord tile added
+ * NFC tile added
+ * Google sound search tile added
+ * Sync tile added
+ * Heads up tile added
+ * Data switch tile added (switch data sim)
+ * Caffeine tile enhanced (long press toggles cpu-info overlay)

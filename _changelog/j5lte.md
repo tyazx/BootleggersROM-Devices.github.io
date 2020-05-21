@@ -247,7 +247,7 @@ codename:j5nlte
  * Offline charging fixed
 
 ==============
-  2020-06-08
+  2020-05-08
 ==============
 
  * May security patch
