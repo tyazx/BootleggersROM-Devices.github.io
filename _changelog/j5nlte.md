@@ -262,3 +262,12 @@ codename:j5nlte
  * Heads up tile added
  * Data switch tile added (switch data sim)
  * Caffeine tile enhanced (long press toggles cpu-info overlay)
+
+==============
+  2020-06-07
+==============
+
+ * June security patch
+ * Usage/battery stats fixed
+ * Reboot tile added
+ * Seconds are back to statusbar clock

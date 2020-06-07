@@ -254,3 +254,26 @@ codename:j5nlte
  * Screenrecording fixed
  * Caffeine tile added
  * Battery bar
+
+==============
+  2020-05-21
+==============
+
+ * Statusbar brightness slider
+ * VPN tile added
+ * Screenrecord tile added
+ * NFC tile added
+ * Google sound search tile added
+ * Sync tile added
+ * Heads up tile added
+ * Data switch tile added (switch data sim)
+ * Caffeine tile enhanced (long press toggles cpu-info overlay)
+
+==============
+  2020-06-07
+==============
+
+ * June security patch
+ * Usage/battery stats fixed
+ * Reboot tile added
+ * Seconds are back to statusbar clock
