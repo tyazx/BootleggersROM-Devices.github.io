@@ -2,6 +2,21 @@
 codename:cepheus 
 ---
 =====================
+    08/06/2020
+=====================
+ * June security patch
+ * Statusbar brightness slider
+ * VPN tile added
+ * Screenrecord tile added
+ * NFC tile added
+ * Google sound search tile added
+ * Sync tile added
+ * Heads up tile added
+ * Data switch tile added (switch data sim)
+ * Caffeine tile enhanced (long press toggles cpu-info overlay)
+
+
+=====================
     29/05/2020
 =====================
 * DEVICE SIDE STUFF:
