@@ -334,3 +334,12 @@ Device Side Changes -
 * May Security Patch
 * Twrp inbuilt
 * Added more QS Tiles
+
+
+=====================                         
+     11/06/2020                     
+=====================
+* July Security Patch
+* Add launch music player on headset connect(wired headphones only)
+* More QS tiles
+* Show seconds in clock
