@@ -2,9 +2,12 @@
 codename:beryllium
 ---
 
-- Fixed temps
-- Fixed some thermals issues
-- Camera Go is default camera now
-- Updated powerhal
-- Kernel upstreamed to Linux 4.9.221
-- Few more that i dont remember
+- June patch
+- Fixed thermals finally
+- Added per-app thermal profiles
+- Updated gpu drivers
+- Updated ramdisk
+- Kernel upstreamed to Linux 4.9.227
+- Merged 'LA.UM.8.3.r1-07900-sdm845.0' into kernel
+- Some more saxiness and goodies (flash it to know more)
+
