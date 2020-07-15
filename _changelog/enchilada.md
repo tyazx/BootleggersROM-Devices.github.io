@@ -66,7 +66,7 @@ Some doze fixes
 Fix HighBrightnessMode being enabled on boot
 Fix Display Mode constantly reverting to Night Mode (DCI-P3 ftw!)
 Add toggles for sim slot (can't disable all sim cards for obvious reasons)
-Remove + from kernel version 
+Remove + from kernel version
 Fix USB mode not being switchable
 Blacklist /vendor overlays
 Some SEPolicy fixes
@@ -206,7 +206,7 @@ Update gcam(thanks to arnova)
 * Shishu Themes now have LIT instead of LTE
 * Added Q clock with extra changes for date and owner
 * Aggresive Battery
-* Custom fingerprint icons for OP devices 
+* Custom fingerprint icons for OP devices
 * Fixed Markup building for all devices
 * Added Q seekbar with a small ui change
 * Added improvements for 3 finger screenshot
@@ -308,7 +308,7 @@ Update gcam(thanks to arnova)
 * Added LOS protected apps (only works on Launcher3, sorry lawnchair folks)
 * And maybe more
 
-Device Side Changes - 
+Device Side Changes -
 * Lockscreen shows Dash Charging when you use dash charger
 * Alert Slider pop-ups
 * OOS camera functional(60fps is rarted)
@@ -339,7 +339,15 @@ Device Side Changes -
 =====================                         
      11/06/2020                     
 =====================
-* July Security Patch
+* June Security Patch
 * Add launch music player on headset connect(wired headphones only)
 * More QS tiles
 * Show seconds in clock
+
+=====================                         
+     11/06/2020                     
+=====================
+* July Security Patch
+* Track new Shishu Walls
+* Add new bt implementation
+* Replace Calender with Etar
