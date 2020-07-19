@@ -2,6 +2,16 @@
 codename:klte
 ---
 
+Devices:
+
+* Fixed some known bugs
+
 Bootleggers:
-* Source rebase from may security patch
-* And maybe more
+
+* July SP
+* Small improvements
+* Added some more QS tiles
+* New shishuwalls app
+* Add launch music player on headset connect(wired headphones only)
+* More QS tiles
+* Show seconds in clock
