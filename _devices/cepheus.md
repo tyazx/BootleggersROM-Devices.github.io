@@ -4,7 +4,7 @@ fullname: Xiaomi Mi 9
 maintainer: tribual
 newformat: true
 xdathread: comming soon
-filename: BootleggersROM-Queue4cepheus.5.1-Stable-Shishufied-20200608-112509.zip
-buildsize: 1140731052
-mirrorlink: http://cloud.softair-sueddeutschland.de/index.php/s/rExBKxSLqxRoLmi
+filename: BootleggersROM-Queue4cepheus.5.2-Stable-Shishufied-20200901-155237.zip
+buildsize: 1145524800
+mirrorlink: http://cloud.softair-sueddeutschland.de/index.php/s/5q9E6BbKzWNQjYN
 ---
