@@ -2,6 +2,47 @@
 codename:cepheus 
 ---
 =====================
+    01/09/2020
+=====================
+* DEVICE SIDE STUFF:
+- Included FW in zip
+- Improved and cleaned up Powerhint
+- Added support for alipay
+- Added dynamic thermal profiles
+- Fixed auto brightness
+- Fixed portrait mode
+- Update OpenGL and Vulkan drivers
+- Improved Powerhint from Pixel 4a
+- Tuned surfaceflinger props from Pixel 4a
+
+* Kernel:
+- Upstreamed to Linux 4.14.195
+- Merged new caf tag
+- Misc improvements
+
+* Bootleggers:
+- August SP
+- Fixed some bugs, some related to themes, some in other parts (like Lockscreen cover art)
+- Added LiveDisplay support
+- Updated system recording to remove any restriction
+- Clipboard access toast
+- Added more theming elements 
+  (NOTE: in that theme elements, we also brought up Shishu Themes, excepting 2. Sorry but cosmos and protostar were too cringe)
+- Added POSP volume panels (Compact, Oreo and that)
+- Added pulse
+- Removed any reference to based department because we were posting cringe
+- Live Volume Steps
+- Notif Counters
+- Custom carrier stuff
+- Logos in statusbar
+- New VoLTE icon, made it smaller because of notch limitations
+- QS Tile Styles are back
+- App network restrictions 
+- Toggle for qs arrows
+- Header offset and QS Header styles 
+- New ringtone and alarm sounds made by @ElDainosor
+
+=====================
     08/06/2020
 =====================
  * June security patch
